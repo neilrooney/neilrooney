@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @neilrooney
 - 🏡 I live and work in Berlin, Germany.
-- 🤓 I head up the sysadmin team @ Ada Health.
 - 🔗 You can check out my (basic) site @ neilrooney.com
 
 <!---
